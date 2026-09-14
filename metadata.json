@@ -1,0 +1,6 @@
+{
+  "name": "Bhaavabot",
+  "description": "A peaceful companion for your thoughts, tranquil nature soundscapes, and serene memory postcards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
